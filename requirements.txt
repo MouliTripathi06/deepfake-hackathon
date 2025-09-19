@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+mtcnn
+opencv-python
+pillow
+numpy
+reportlab
+pymediainfo
+matplotlib
+
